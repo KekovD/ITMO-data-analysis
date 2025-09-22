@@ -1,0 +1,36 @@
+Количество кластеров: 11
+Модулярность: 0.167
+
+
+Кластер 1 (82 слов):
+Слова: trigram model, prosody, user, hmm, correlation, compositionality, map, presented, topic, logic, automatic speech, learned, question answering, modelling, logical, retrieval system, open, neural, clir, cross lingual
+
+Кластер 2 (91 слов):
+Слова: correction, global, filtering, arabic language, doe, selection, make, precision, coefficient, checker, work, error correction, learner, edit distance, spelling, distance, relative, sentiment word, assumption, empirical
+
+Кластер 3 (76 слов):
+Слова: provide, module, survey, general, indian language, robust, action, applied, description, report, engineering, agent, language generation, basic, stemmer, degree, sign language, test, variable, base
+
+Кластер 4 (42 слов):
+Слова: syllable, morphological, analyzer, one, phonology, computational phonology, state, optimality theory, russian, morphological analysis, along, computational, morphology, set, morphological analyzer, finite, brief, phase, finite state, approximation
+
+Кластер 5 (78 слов):
+Слова: twitter, summarization, also, generated, phonetic, first, croatian, sentiment, mathematical, issue, paragraph, identifying, procedure, order, area, short, century, similar, various, activity
+
+Кластер 6 (146 слов):
+Слова: embeddings, binary, learns, grained, relation, method, contrast, specific, class verb, sample, detect, two, sens, senseval, extraction, roget thesaurus, ontology, word embeddings, acquired, role
+
+Кластер 7 (130 слов):
+Слова: already, characteristic, human, grapheme, grapheme phoneme, ranking, hidden, design, spoken language, sentence, translation, paper, based approach, bleu, phrase based, output, tense, high, dialect, tagger
+
+Кластер 8 (34 слов):
+Слова: speaker, named entity, language independent, across different, 2015, labeling, chunking, 2001, channel, 2000, shared, named, dependent, background, tweet, cascade, relationship, linear, art, called
+
+Кластер 9 (110 слов):
+Слова: allow, development, crowdsourcing, annotation framework, single, discourse, appropriate, verbal, digital, framework, cost, french, equivalent, annotated, cognitive, format, group, manner, adverbial, association
+
+Кластер 10 (18 слов):
+Слова: case, generator, search, euphonic, schema, rule, mean, generate, process, present, sanskrit, euphonic conjunction, sandhi, generating, fact, creation, form, conjunction
+
+Кластер 11 (89 слов):
+Слова: addition, calculus, tree, transformation, version, second, adjoining grammar, contextual, program, function, adjoining, discontinuous, formalism, phrase structure, string, hpsg, likelihood, apply, lattice, grammatical relation
